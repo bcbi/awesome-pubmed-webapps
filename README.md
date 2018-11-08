@@ -13,9 +13,9 @@ The initial list was inspired by this work https://www.ncbi.nlm.nih.gov/CBBresea
 
 ## Academic
 
-|Systems| Search | Mining | Visualization |Publication| Year | 
-|---|---|---|---|---|---|---|---|
-|[HiPub](http://hipub.korea.ac.kr/) | x | x | x  | [27485446](https://www.ncbi.nlm.nih.gov/pubmed/27485446) | 2016 | | 
+|Systems| Search | Mining | Visualization |Publication| Year |
+| --- | --- | --- | --- | --- | --- | 
+|[HiPub](http://hipub.korea.ac.kr/) | x | x | x  | [27485446](https://www.ncbi.nlm.nih.gov/pubmed/27485446) | 2016 |
 |[Meshable](https://www.ncbi.nlm.nih.gov/CBBresearch/Wilbur/IRET/MESHABLE/)|x|||[27288493](https://www.ncbi.nlm.nih.gov/pubmed/27288493)|2016|
 |[iPubMed](http://ipubmed.ics.uci.edu) | x |  | | [Link](http://ipubmed.ics.uci.edu/pubs/) |  2014 | 
 |[MedlineRanker](http://cbdm-01.zdv.uni-mainz.de/~jfontain/cms/)  | x | | |[19429696](https://www.ncbi.nlm.nih.gov/pubmed/19429696) | 2009 | 
@@ -27,7 +27,7 @@ The initial list was inspired by this work https://www.ncbi.nlm.nih.gov/CBBresea
 ## Government
 
 |Systems| Search | Mining | Visualization |Publication| Year |
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |[BabelMeSH](https://babelmesh.nlm.nih.gov)  | x | | |  | 
 |[CiteXplore](https://europepmc.org) | x | | | | | 
 |[askMEDLINE](http://askmedline.nlm.nih.gov/ask/ask.php) | x | | | | 
@@ -36,7 +36,7 @@ The initial list was inspired by this work https://www.ncbi.nlm.nih.gov/CBBresea
 ## Private
 
 |Systems | Search | Mining | Visualization | Publication| Year | 
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |[Quertle](http://www.quertle.info)   | x | x | x  |  | | 
 |[HubMed](http://git.macropus.org/hubmed/)  | x | | |   | |
 |[GoPubMed](https://www.gopubmed.org/) | x | x | x |  | |
