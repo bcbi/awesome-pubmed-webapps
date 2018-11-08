@@ -1,6 +1,6 @@
-# Awesome PubMed Web Tools
+# Awesome PubMed Web Applications
 
-We intend to maintain a list of web tools that search, mine and visualize biomedical literature. Only tools that are currently deployed and functioning propertly should be included. If you would like to add your work or update any of the information please submit a pull request or open an issue. 
+We intend to maintain a list of web applications that search, mine and visualize biomedical literature. Only tools that are currently deployed and functioning propertly should be included. If you would like to add your work or update any of the information please submit a pull request or open an issue. 
 
 **Notes on attributes:**
 
