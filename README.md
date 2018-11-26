@@ -19,26 +19,26 @@ The initial list was inspired by this work https://www.ncbi.nlm.nih.gov/CBBresea
 |[Meshable](https://www.ncbi.nlm.nih.gov/CBBresearch/Wilbur/IRET/MESHABLE/)|x|||[27288493](https://www.ncbi.nlm.nih.gov/pubmed/27288493)|2016|
 |[iPubMed](http://ipubmed.ics.uci.edu) | x |  | | [Link](http://ipubmed.ics.uci.edu/pubs/) |  2014 | 
 |[MedlineRanker](http://cbdm-01.zdv.uni-mainz.de/~jfontain/cms/)  | x | | |[19429696](https://www.ncbi.nlm.nih.gov/pubmed/19429696) | 2009 | 
-|[PubNet](http://pubnet.gersteinlab.org/) | x | x | x  | |
-|[PubCrawler](http://pubcrawler.gen.tcd.ie/) | x | | | |
-|[CISMeF](http://www.cismef.org/)  | x | | | |
-|[MEDSUM](http://webtools.mf.uni-lj.si/public/medsum.html)| x | x | x | |
+|[MEDSUM](http://webtools.mf.uni-lj.si/public/medsum.html)| x | x | x | | 2009 |
+|[CISMeF](http://www.cismef.org/)  | x | |  | [18694229](https://www.ncbi.nlm.nih.gov/pubmed/18694229)|2007
+|[PubNet](http://pubnet.gersteinlab.org/) | x | x | x  | [16168087](https://www.ncbi.nlm.nih.gov/pubmed/16168087) | 2005 |
+|[PubCrawler](http://pubcrawler.gen.tcd.ie/) | x | | | [15215341](https://www.ncbi.nlm.nih.gov/pubmed/15215341) | 2004 |
 
 ## Government
 
 |Systems| Search | Mining | Visualization |Publication| Year |
 |---|---|---|---|---|---|
-|[BabelMeSH](https://babelmesh.nlm.nih.gov)  | x | | |  | 
-|[CiteXplore](https://europepmc.org) | x | | | | | 
-|[askMEDLINE](http://askmedline.nlm.nih.gov/ask/ask.php) | x | | | | 
-|[SLIM](https://pmi.nlm.nih.gov/slim/)  | x | | |  | | 
+|[EuropePMC](https://europepmc.org) | x | | | |
+|[BabelMeSH](https://babelmesh.nlm.nih.gov)  | x | | | [17238631](https://www.ncbi.nlm.nih.gov/pubmed/17238631) | 2006 |
+|[askMEDLINE](http://askmedline.nlm.nih.gov/ask/ask.php) | x | | |[15760470](https://www.ncbi.nlm.nih.gov/pubmed/15760470) | 2005| 
+|[SLIM](https://pmi.nlm.nih.gov/slim/)  | x | | | [16321145](https://www.ncbi.nlm.nih.gov/pubmed/16321145) | 2005 | 
 
 ## Private
 
 |Systems | Search | Mining | Visualization | Publication| Year | 
 |---|---|---|---|---|---|
-|[Quertle](http://www.quertle.info)   | x | x | x  |  | | 
-|[HubMed](http://git.macropus.org/hubmed/)  | x | | |   | |
-|[GoPubMed](https://www.gopubmed.org/) | x | x | x |  | |
 |[BibliMed](http://biblimed.fr/) | x | | |  | |
+|[Quertle](http://www.quertle.info)   | x | x | x  |  | | 
+|[HubMed](http://git.macropus.org/hubmed/)  | x | | | [16845111](https://www.ncbi.nlm.nih.gov/pubmed/16845111)  | 2006 |
+|[GoPubMed](https://www.gopubmed.org/) | x | x | x | [15980585](https://www.ncbi.nlm.nih.gov/pubmed/15980585) | 2005 |
 
